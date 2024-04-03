@@ -116,4 +116,8 @@ Get acquainted with the use of Tailwind CSS
 
 
 ## Authors and acknowledgment
+**Author**
+John Figueira Hasbun
 
+**Special Thanks**
+I would like to express my gratitude to my instructors at Sogyo for their invaluable guidance and support throughout this project. In particular, I extend my deepest appreciation to Jeroen for his mentorship and encouragement, which significantly contributed to the success of this endeavor.
