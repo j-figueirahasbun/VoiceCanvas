@@ -1,0 +1,17 @@
+plugins {
+    id 'java-library'
+}
+
+java {
+    sourceCompatibility = '17'
+}
+
+dependencies {
+    implementation project(':domain')
+    implementation 'org.springframework.data:spring-data-mongodb:3.2.2'
+    implementation 'me.paulschwarz:spring-dotenv:4.0.0'
+}
+
+tasks.named('test') {
+    useJUnitPlatform()
+}
