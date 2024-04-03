@@ -1,9 +1,9 @@
 # VoiceCanvas
 
-## Status
-
 [![pipeline status](https://git.sogyo.nl/jfigueirahasbun/voicecanvas/badges/main/pipeline.svg)](https://git.sogyo.nl/jfigueirahasbun/voicecanvas/-/commits/main) [![coverage report](https://git.sogyo.nl/jfigueirahasbun/voicecanvas/badges/main/coverage.svg?job=coverage)](https://git.sogyo.nl/jfigueirahasbun/voicecanvas/-/commits/main)
 
+## Project status
+Deveolopment for this project has temporarily been put on pause, as the developer is working on other projects.
 
 ## Goal
 
@@ -116,7 +116,4 @@ Get acquainted with the use of Tailwind CSS
 
 
 ## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
 
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
