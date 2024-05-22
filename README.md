@@ -3,7 +3,7 @@
 [![pipeline status](https://git.sogyo.nl/jfigueirahasbun/voicecanvas/badges/main/pipeline.svg)](https://git.sogyo.nl/jfigueirahasbun/voicecanvas/-/commits/main) [![coverage report](https://git.sogyo.nl/jfigueirahasbun/voicecanvas/badges/main/coverage.svg?job=coverage)](https://git.sogyo.nl/jfigueirahasbun/voicecanvas/-/commits/main)
 
 ## Project status
-Deveolopment for this project has temporarily been put on pause, as the developer is working on other projects.
+Deveolopment for this project is still in progress.
 
 ## Goal
 
