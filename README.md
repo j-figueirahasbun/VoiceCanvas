@@ -1,7 +1,7 @@
 # VoiceCanvas
 
 ## Project status
-Deveolopment for this project is still in progress.
+Development for this project is still in progress.
 
 ## Goal
 
